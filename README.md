@@ -1,7 +1,4 @@
-# Gamma-Boost-Open-Sourced
-This is Free option of Gamma Boost + this has more features, and its open sourced
-
-# 🌸 GammaBoost+ (
+# 🌸 GammaBoost+ (Baby Pink Edition)
 
 **GammaBoost+** is a high-performance, zero-telemetry, 100% open-source C++ display enhancer, low-latency FPS channel optimizer, and gameplay accessibility tool for Windows.
 
@@ -66,4 +63,3 @@ g++ -O2 -mwindows -municode main.cpp resource.res -o GammaBoost.exe -lgdi32 -lgd
 
 ## 📄 License
 Licensed under the [MIT License](LICENSE).
-

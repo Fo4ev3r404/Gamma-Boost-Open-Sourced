@@ -1,0 +1,5 @@
+#include <windows.h>
+
+101 ICON "gamma.ico"
+102 RCDATA "preview.jpg"
+1 RT_MANIFEST "app.manifest"
