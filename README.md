@@ -61,5 +61,14 @@ g++ -O2 -mwindows -municode main.cpp resource.res -o GammaBoost.exe -lgdi32 -lgd
 
 ---
 
+
+<img width="1178" height="719" alt="slika" src="https://github.com/user-attachments/assets/adcaeecc-df33-439e-ba8e-1cb1b18c8441" />
+<img width="1169" height="712" alt="slika" src="https://github.com/user-attachments/assets/888be786-5f33-4bf0-ab36-2840529e7970" />
+<img width="1178" height="727" alt="slika" src="https://github.com/user-attachments/assets/d7044e77-b805-4a1b-93d4-7f52736a1957" />
+<img width="1183" height="720" alt="slika" src="https://github.com/user-attachments/assets/87b40951-13a2-4f54-8aae-77a1750be02b" />
+<img width="1174" height="716" alt="slika" src="https://github.com/user-attachments/assets/982d18ff-f8d7-4b6b-9815-624e7d86460c" />
+
+
+
 ## 📄 License
 Licensed under the [MIT License](LICENSE).
